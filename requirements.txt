@@ -70,3 +70,4 @@ webencodings==0.5.1
 websocket-client==1.4.2
 Werkzeug==2.2.2
 zipp==3.11.0
+testresources
